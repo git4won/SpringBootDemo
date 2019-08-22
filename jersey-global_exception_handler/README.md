@@ -170,3 +170,10 @@ public class JerseyConfig extends ResourceConfig {
     }
 }
 ```
+
+
+## 参考
+
+[Jersey exception handling – Jersey ExceptionMapper Example](https://howtodoinjava.com/jersey/jaxrs-jersey-exceptionmapper/)
+[Jersey ExceptionMapper doesn't map exceptions](https://stackoverflow.com/questions/27982948/jersey-exceptionmapper-doesnt-map-exceptions)
+[RESTfu­­l Jav­a­ wit­h ­JAX­-­­RS 2.­0­ (Second Edition) - Exception Handling](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/part1/chapter7/exception_handling.html)
